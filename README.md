@@ -72,7 +72,7 @@ Welcome to my **3D Portfolio Website**! This project showcases a modern, interac
 1. Clone the repository:
 
    ```bash
-   git clone [<your-repository-url>](https://github.com/harsh7781/Portfolio)
+   git clone https://github.com/harsh7781/Portfolio
    cd 3d-portfolio
    ```
 
