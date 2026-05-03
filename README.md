@@ -1,6 +1,12 @@
 # 🎨 3D Portfolio Website
 
-Welcome to my **3D Portfolio Website**! This project showcases a modern, interactive personal portfolio built with **React**, **TypeScript**, **Three.js**, **React Three Fiber**, and **GSAP**. Explore smooth animations, 3D character scenes, custom cursor effects, and a highly responsive layout—all designed to make a portfolio experience feel alive.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.dot-js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+Welcome to my **3D Portfolio Website**! This project showcases a modern, interactive personal portfolio built with a focus on immersive web experiences. It features smooth 3D character scenes, scroll-based animations, and a highly responsive design.
 
 🌐 **Live Demo:** [https://harshalportfoliowebsite.netlify.app/](https://harshalportfoliowebsite.netlify.app/)
 
